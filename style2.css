@@ -1,0 +1,52 @@
+body {
+	color: white;
+	background-color: #701a1a;
+	font-family: Garamond, serif;
+}
+
+h1 {
+	padding:20px;
+	font-size:40;
+}
+
+
+.subheadings{
+	text-align:center;
+	font-size:30px;
+}
+
+.text{
+	font-size:20px;
+	padding:10px;
+	left-margin:50px;
+	right-margin:50px;
+	border:50px;
+}
+
+.table{
+	font-size:30;
+	margin-left: 550px;
+  	margin-right: 400px;
+  	padding:10px;
+
+}
+
+#links:hover{
+  background-color: black;
+}
+
+
+img{
+	width:100px;
+	border:7px solid;
+	display: inline;
+}
+
+#smallerimage{
+border:3px solid;
+  
+}
+
+#biggerimage{
+	width:150px;
+}
